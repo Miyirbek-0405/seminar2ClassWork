@@ -1,0 +1,30 @@
+D:\GeekBrains\Знакомство с языками программирования (семинар)c#\задание семинар2\obj\Debug\net6.0\задание семинар2.csproj.AssemblyReference.cache
+D:\GeekBrains\Знакомство с языками программирования (семинар)c#\задание семинар2\obj\Debug\net6.0\задание семинар2.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Знакомство с языками программирования (семинар)c#\задание семинар2\obj\Debug\net6.0\задание семинар2.AssemblyInfoInputs.cache
+D:\GeekBrains\Знакомство с языками программирования (семинар)c#\задание семинар2\obj\Debug\net6.0\задание семинар2.AssemblyInfo.cs
+D:\GeekBrains\Знакомство с языками программирования (семинар)c#\задание семинар2\obj\Debug\net6.0\задание семинар2.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Знакомство с языками программирования (семинар)c#\задание семинар2\bin\Debug\net6.0\задание семинар2.exe
+D:\GeekBrains\Знакомство с языками программирования (семинар)c#\задание семинар2\bin\Debug\net6.0\задание семинар2.deps.json
+D:\GeekBrains\Знакомство с языками программирования (семинар)c#\задание семинар2\bin\Debug\net6.0\задание семинар2.runtimeconfig.json
+D:\GeekBrains\Знакомство с языками программирования (семинар)c#\задание семинар2\bin\Debug\net6.0\задание семинар2.dll
+D:\GeekBrains\Знакомство с языками программирования (семинар)c#\задание семинар2\bin\Debug\net6.0\задание семинар2.pdb
+D:\GeekBrains\Знакомство с языками программирования (семинар)c#\задание семинар2\obj\Debug\net6.0\задание семинар2.dll
+D:\GeekBrains\Знакомство с языками программирования (семинар)c#\задание семинар2\obj\Debug\net6.0\refint\задание семинар2.dll
+D:\GeekBrains\Знакомство с языками программирования (семинар)c#\задание семинар2\obj\Debug\net6.0\задание семинар2.pdb
+D:\GeekBrains\Знакомство с языками программирования (семинар)c#\задание семинар2\obj\Debug\net6.0\задание семинар2.genruntimeconfig.cache
+D:\GeekBrains\Знакомство с языками программирования (семинар)c#\задание семинар2\obj\Debug\net6.0\ref\задание семинар2.dll
+D:\задание семинар2\bin\Debug\net6.0\задание семинар2.exe
+D:\задание семинар2\bin\Debug\net6.0\задание семинар2.deps.json
+D:\задание семинар2\bin\Debug\net6.0\задание семинар2.runtimeconfig.json
+D:\задание семинар2\bin\Debug\net6.0\задание семинар2.dll
+D:\задание семинар2\bin\Debug\net6.0\задание семинар2.pdb
+D:\задание семинар2\obj\Debug\net6.0\задание семинар2.csproj.AssemblyReference.cache
+D:\задание семинар2\obj\Debug\net6.0\задание семинар2.GeneratedMSBuildEditorConfig.editorconfig
+D:\задание семинар2\obj\Debug\net6.0\задание семинар2.AssemblyInfoInputs.cache
+D:\задание семинар2\obj\Debug\net6.0\задание семинар2.AssemblyInfo.cs
+D:\задание семинар2\obj\Debug\net6.0\задание семинар2.csproj.CoreCompileInputs.cache
+D:\задание семинар2\obj\Debug\net6.0\задание семинар2.dll
+D:\задание семинар2\obj\Debug\net6.0\refint\задание семинар2.dll
+D:\задание семинар2\obj\Debug\net6.0\задание семинар2.pdb
+D:\задание семинар2\obj\Debug\net6.0\задание семинар2.genruntimeconfig.cache
+D:\задание семинар2\obj\Debug\net6.0\ref\задание семинар2.dll
